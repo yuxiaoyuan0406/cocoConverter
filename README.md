@@ -1,5 +1,8 @@
 # coco convert tools
 
+Need only part of coco dataset for training yolov7.  
+Wrote these tools for further reference.
+
 ## Category filter
 
 Pick out some categories from coco dataset.
