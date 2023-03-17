@@ -1,8 +1,8 @@
 import os
-import cv2
-import time
+# import cv2
+# import time
 import argparse
-import numpy as np
+# import numpy as np
 
 def path_check(path, name):
     assert os.path.exists(path), 'invalid {} path: {}'.format(name, path)
